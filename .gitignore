@@ -1,0 +1,7 @@
+httpx_repo/
+index/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
