@@ -1,9 +1,0 @@
-httpx_repo/
-.venv/
-venv/
-__pycache__/
-*.pyc
-.git/
-tests/
-demo_output.md
-.gitignore

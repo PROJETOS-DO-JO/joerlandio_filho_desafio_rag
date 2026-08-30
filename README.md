@@ -4,7 +4,7 @@
 
 - Nome do aluno: Joerlândio Filho
 - Formato da solução: script de terminal (Python puro, roda no VS Code / qualquer terminal)
-- Link do vídeo: _preencher antes da entrega_
+- Link do vídeo: https://youtu.be/pmlwdPq6MTk
 - Link do Colab, se aplicável: não se aplica (projeto local)
 
 ## Objetivo
